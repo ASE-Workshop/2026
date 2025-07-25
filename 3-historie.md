@@ -5,6 +5,7 @@ nav: true
 
 ### Overview of the previous workshops:
 
+- [22. Workshop ASE, SE 2025 in Karlsruhe](https://ase-workshop.github.io/2025/)
 - [21. Workshop ASE, SE 2024 in Linz](https://ase-workshop.github.io/2024/)
 - [20. Workshop ASE, SE 2023 in Paderborn](https://ase-workshop.github.io/2023/)
 - [19. Workshop ASE, SE 2022 in Berlin](https://ase-workshop.github.io/2022/)
