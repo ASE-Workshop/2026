@@ -3,33 +3,30 @@ title: Call for Papers
 nav: true
 ---
 
-This workshop will discuss challenges and approaches to solutions in automotive software engineering. Contributions from all areas of software development for automobiles, commercial vehicles and their infrastructure are welcome. Examples of topics are:
+This workshop will address current challenges and solution approaches in automotive software engineering. Contributions from all areas of software development for passenger cars, commercial vehicles, and related infrastructure are welcome.
 
-- Architectures, interfaces and technologies for vehicle networking
-- Architectures and methods for the development of driver assistance and automated driving functions
-- Apps in the vehicle
-- Big Data for intelligent vehicles
-- Development processes for in-vehicle software
-- Standardised software components, as well as construction kits for the development of innovative applications
-- Variant and configuration management
-- Evolution and updating of software in operation
-- Quality assurance and analysis of functional and non-functional properties
-- Safety aspects (security and safety)   
-- Behavioural adaptation based on the environmental context, e.g. of the vehicle or the driver
-- Multimodal human-vehicle interaction
-- E-mobility
-- Basic software and system services
+Examples of topics include, but are not limited to:
 
-The submission for the workshop (6-12 pages) is made via the conference management system EasyChair at the following [link](https://easychair.org/conferences/?conf=ase2025). 
+- Architectures and methods for software-defined and connected vehicles  
+- Development processes for driver assistance and automated driving functions  
+- Safety, security, and reliability in automotive software systems  
+- Continuous integration, deployment, and updating of vehicle software  
+- Agile methods in regulated environments  
+- Verification, validation, and quality assurance  
+- Data-driven development and AI-based functions  
+- Human–machine interaction and user experience in vehicles  
+- Standardized platforms, middleware, and reusable software components  
+
+Submissions (6–12 pages) are to be made via the conference management system EasyChair using the following [link](https://easychair.org/conferences/?conf=ase2025). 
 
 __Important dates__ (all AoE)\
-Submission deadline: December 7, 2025 (AoE)\
+Submission deadline: December 7, 2025\
 Notifications: January 7, 2026\
 Final version: January 16, 2026
 
 Submissions are required to be in English.
 
-Furthermore, the [GI LNI Format Templates](https://github.com/gi-ev/LNI) (1-column A4 format) must be followed. All submissions will be peer-reviewed by the programme committee. Accepted submissions will be published in the SE 2025 workshop proceedings. For accepted submissions, at least one of the authors is expected to register for the workshop. 
+Furthermore, the [GI LNI Format Templates](https://github.com/gi-ev/LNI) (1-column A4 format) must be followed. All submissions will be peer-reviewed by the programme committee. Accepted submissions will be published in the SE 2026 workshop proceedings. For accepted submissions, at least one of the authors is expected to register for the workshop. 
 
 In case of queries or problems, please contact by mail: ase2026@easychair.org
 
