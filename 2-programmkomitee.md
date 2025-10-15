@@ -16,4 +16,4 @@ Holger Schlingloff, Fraunhofer FOKUS and Humboldt University \
 Jörn Schneider, Hochschule Trier, Germany \
 Ramin Tavakoli, Technische Hochschule Nürnberg, Germany \
 Thomas Vogel, Humboldt Uni zu Berlin und FhG Fokus, Germany \
-Andreas	Vogelsang, Universität zu Köln, Germany
+Andreas	Vogelsang, Universität Duisburg-Essen, Germany
