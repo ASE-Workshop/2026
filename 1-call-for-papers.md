@@ -17,7 +17,7 @@ Examples of topics include, but are not limited to:
 - Human–machine interaction and user experience in vehicles  
 - Standardized platforms, middleware, and reusable software components  
 
-Submissions (6–12 pages) are to be made via the conference management system EasyChair using the following [link](https://easychair.org/conferences/?conf=ase2025). 
+Submissions (6–12 pages) are to be made via the conference management system EasyChair using the following [link](https://easychair.org/conferences/?conf=ase26). 
 
 __Important dates__ (all AoE)\
 Submission deadline: December 7, 2025\
@@ -28,6 +28,6 @@ Submissions are required to be in English.
 
 Furthermore, the [GI LNI Format Templates](https://github.com/gi-ev/LNI) (1-column A4 format) must be followed. All submissions will be peer-reviewed by the programme committee. Accepted submissions will be published in the SE 2026 workshop proceedings. For accepted submissions, at least one of the authors is expected to register for the workshop. 
 
-In case of queries or problems, please contact by mail: ase2026@easychair.org
+In case of queries or problems, please contact by mail: ase26@easychair.org
 
-<!-- The CfP is also available as a [PDF document](https://github.com/ASE-Workshop/2024/raw/main/images/ASE2024-WorkshopCfP.pdf). -->
+<!-- The CfP is also available as a [PDF document](https://github.com/ASE-Workshop/2026/raw/main/images/ASE2026-WorkshopCfP.pdf). -->
