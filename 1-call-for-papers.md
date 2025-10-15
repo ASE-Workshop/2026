@@ -5,6 +5,7 @@ nav: true
 
 This workshop will discuss challenges and approaches to solutions in automotive software engineering. Contributions from all areas of software development for automobiles, commercial vehicles and their infrastructure are welcome. Examples of topics are:
 
+- aksjdhfka sjhflk ashfklj hskfjh klgh lksdg
 - Architectures, interfaces and technologies for vehicle networking
 - Architectures and methods for the development of driver assistance and automated driving functions
 - Apps in the vehicle
