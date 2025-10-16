@@ -12,7 +12,7 @@ Stefan Kugele, Technische Hochschule Ingolstadt, Germany \
 Ralf Reißing, Hochschule Coburg, Germany \
 Holger Schlingloff, Humboldt-Universität zu Berlin, Germany \
 Jörn Schneider, Hochschule Trier, Germany \
-Ramin Tavakoli Kolagari, Technische Hochschule Nürnberg, Germany \
+Ramin Tavakoli Kolagari, Technische Hochschule Nürnberg Georg Simon Ohm, Germany \
 Thomas Thüm, Technische Universität Braunschweig, Germany \
 Thomas Vogel, Humboldt-Universität zu Berlin, Germany \
 Andreas Vogelsang, Universität Duisburg–Essen, Germany
