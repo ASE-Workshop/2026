@@ -4,16 +4,15 @@ nav: true
 ---
 __Programme Committee__
 
-Marcel Baunach,	Technische Universität Graz, Austria \
-Klaus	Becker, Continental Automotive Technologies GmbH, Germany \
-Mirko	Conrad, samoconsult GmbH, Germany \
-Steffen	Helke, Fachhochschule Südwestfalen, Germany \
-Paula	Herber, Universität Münster, Germany \
-Thomas Kropf, Robert Bosch GmbH, Germany \
-Wolfgang Müller, Universität Paderborn, Germany \
+Marcel Baunach, Technische Universität Graz, Austria \
+Mirko Conrad, samoconsult GmbH, Germany \
+Steffen Helke, Fachhochschule Südwestfalen, Germany \
+Thomas Kropf, Universität Tübingen, Germany \
+Stefan Kugele, Technische Hochschule Ingolstadt, Germany \
 Ralf Reißing, Hochschule Coburg, Germany \
-Holger Schlingloff, Fraunhofer FOKUS and Humboldt University \
+Holger Schlingloff, Humboldt-Universität zu Berlin, Germany \
 Jörn Schneider, Hochschule Trier, Germany \
-Ramin Tavakoli, Technische Hochschule Nürnberg, Germany \
-Thomas Vogel, Humboldt Uni zu Berlin und FhG Fokus, Germany \
-Andreas	Vogelsang, Universität Duisburg-Essen, Germany
+Ramin Tavakoli Kolagari, Technische Hochschule Nürnberg, Germany \
+Thomas Thüm, Technische Universität Braunschweig, Germany \
+Thomas Vogel, Humboldt-Universität zu Berlin, Germany \
+Andreas Vogelsang, Universität Duisburg–Essen (paluno), Germany
