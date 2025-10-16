@@ -25,7 +25,7 @@ This workshop will discuss challenges and approaches to solutions in automotive 
 
 ## Organisation
 
-[Prof. Dr. Ramin Tavakoli Kolagari](https://www.th-nuernberg.de/person/tavakoli-kolagari-ramin/), Technische Hochschule Nürnberg Georg Simon Ohm<br/>
+[Prof. Dr. Ramin Tavakoli Kolagari](https://www.th-nuernberg.de/fakultaeten/in/forschung/automotive-software-systems-engineering-as2e/team/), Technische Hochschule Nürnberg Georg Simon Ohm<br/>
 [Prof. Dr. Stefan Kugele](https://www.thi.de/personen/stefan-kugele/), Technische Hochschule Ingolstadt<br/> 
 
 The organisation is closely coordinated with the [GI-Fachgruppe Automotive Software Engineering](http://fg-ase.gi.de/), which has been organising the ASE workshop for many years. 
