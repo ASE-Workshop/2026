@@ -15,4 +15,4 @@ Jörn Schneider, Hochschule Trier, Germany \
 Ramin Tavakoli Kolagari, Technische Hochschule Nürnberg, Germany \
 Thomas Thüm, Technische Universität Braunschweig, Germany \
 Thomas Vogel, Humboldt-Universität zu Berlin, Germany \
-Andreas Vogelsang, Universität Duisburg–Essen (paluno), Germany
+Andreas Vogelsang, Universität Duisburg–Essen, Germany
