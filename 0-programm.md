@@ -1,5 +1,5 @@
 ---
-title: Programmme
+title: Programme
 nav: true
 ---
 
