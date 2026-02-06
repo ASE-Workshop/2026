@@ -3,7 +3,7 @@ title: Programme
 nav: true
 ---
 
-The ASE Workshop 2026 will take place at the [Campus South](https://se2026.inf.unibe.ch/de/location/workspace-welle7/).
+The ASE Workshop 2026 will take place at the [Workspace Welle7](https://se2026.inf.unibe.ch/de/location/workspace-welle7/).
 
 The programme will include a mix of regular, peer-reviewed papers and invited talks. The workshop will start with a keynote.
 
